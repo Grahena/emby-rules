@@ -54,7 +54,7 @@ DOMAIN-SUFFIX,ichinosekotomi.com
 # kl
 DOMAIN,tyemby.klplay.top
 # nice
-DOMAIN,cf.nice66666
+DOMAIN-SUFFIX,nice66666.cc
 # 稳健
 DOMAIN,emby.wenjian.de
 # 结束
@@ -73,6 +73,8 @@ DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,mebimmer.de
 # msky
 DOMAIN-SUFFIX,3msky.com
+# eoos
+DOMAIN-SUFFIX,eoos.lol
 
 DOMAIN-SUFFIX,niceduck.lol
 
