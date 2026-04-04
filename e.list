@@ -1,66 +1,79 @@
 # > E Servers List
-# 更新时间：2026-03-16
+# 更新时间：4.4
 
+#lily
+DOMAIN-KEYWORD,lilyemby
 # 墨云阁
 DOMAIN-SUFFIX,mobaiemby.site
+#paolu-main
+DOMAIN,cctv.paoluma.de
 # kiku
 DOMAIN-SUFFIX,ucloudhost.top
-# emos
-DOMAIN,emos.best
-DOMAIN,emos.prlo.de
-DOMAIN,proxy.emosstore.sbs
 # 非越
 DOMAIN,media.emby.pro
 DOMAIN,cf.sfcj.org
 # peach
 DOMAIN-SUFFIX,embymv.link
+# sdl
+DOMAIN-SUFFIX,saturdayent.top
 # 飞了个喵
 DOMAIN-SUFFIX,meowfly.de
-# hohai
-DOMAIN,emby-pro.hohai.eu.org
-# sdl
-DOMAIN-SUFFIX,saturdayvideo.top
-# 折纸
-DOMAIN-SUFFIX,zhezhi.art
-# 守候
-DOMAIN,lite.cn2gias.uk
-# jsq
-DOMAIN-SUFFIX,vban.xyz
+# echo
+DOMAIN-SUFFIX,echoflix.de
+# emos
+DOMAIN,emos.best
+DOMAIN,emos.prlo.de
+DOMAIN,proxy.emosstore.sbs
+#憨豆
+DOMAIN-SUFFIX,handoumedia.top
+#青梅
+DOMAIN-SUFFIX,chuncheon123.xyz
+#L
+DOMAIN-SUFFIX,886223.xyz
 # 小鸡
 DOMAIN-SUFFIX,sadchicktv.com
+# 守候
+DOMAIN,lite.cn2gias.uk
+# 折纸
+DOMAIN-SUFFIX,zhezhi.art
+# roc
+DOMAIN-SUFFIX,rochub.xyz
 # mirai
 DOMAIN-SUFFIX,miraiemby.com
+# msky
+DOMAIN-SUFFIX,3msky.com
+# 泥嚎
+DOMAIN-SUFFIX,istyboe.top
+# jsq
+DOMAIN-SUFFIX,vban.xyz
 # 西瓜
 DOMAIN-SUFFIX,yuntv.de
-# 小虾米
-DOMAIN-SUFFIX,kingemby.xyz
-# gousen
-DOMAIN,gousen.cc.cd
-# we
-DOMAIN-SUFFIX,wedg.top
 # 起点站
 DOMAIN,free.28.al
 DOMAIN,freestream.startspoint.com
-# 肥牛
-DOMAIN-SUFFIX,feiniu.lol
-# 泥嚎
-DOMAIN-SUFFIX,istyboe.top
-# helloblock
-DOMAIN-SUFFIX,doudou.pet
-# roc
-DOMAIN-SUFFIX,rochub.xyz
+# we
+DOMAIN-SUFFIX,wedg.top
+# 小虾米
+DOMAIN-SUFFIX,kingemby.xyz
 # 一只
 DOMAIN-SUFFIX,ichinosekotomi.com
+# 肥牛
+DOMAIN-SUFFIX,feiniu.lol
 # kl
 DOMAIN,tyemby.klplay.top
+# gousen
+DOMAIN,gousen.cc.cd
 # nice
 DOMAIN-SUFFIX,nice66666.cc
 # 稳健
 DOMAIN,emby.wenjian.de
 # 结束
 DOMAIN,kessoku-bando.biliblili.uk
-# 雪山
-DOMAIN,xueshan.liminalnet.com
+# ask
+DOMAIN-SUFFIX,asubaka.de
+DOMAIN-SUFFIX,ash.yt
+# hohai
+DOMAIN,emby-pro.hohai.eu.org
 # guai
 DOMAIN,zhuixin.8622368.xyz
 # 叶子
@@ -69,22 +82,12 @@ DOMAIN-SUFFIX,lyezi.cc
 DOMAIN-SUFFIX,shrekmedia.org
 # ok
 DOMAIN-SUFFIX,okemby.org
-# me
-DOMAIN-SUFFIX,mebimmer.de
-# msky
-DOMAIN-SUFFIX,3msky.com
 # eoos
 DOMAIN-SUFFIX,eoos.lol
-# echo
-DOMAIN-SUFFIX,echoflix.de
-
-# ask
-DOMAIN-SUFFIX,asubaka.de
-DOMAIN-SUFFIX,ash.yt
-
+# me
+DOMAIN-SUFFIX,mebimmer.de
+# iris
 DOMAIN-SUFFIX,niceduck.lol
-
-DOMAIN-SUFFIX,handoumedia.top
 
 
 

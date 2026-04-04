@@ -1,28 +1,26 @@
 # > ED Servers (直连/优化组)
-# 更新时间：2026-03-16
+# 更新时间：4.4
 
-# lily
-DOMAIN-SUFFIX,lilyemby.com
-DOMAIN-SUFFIX,lilyemby.cc
-# paolu
-DOMAIN-SUFFIX,paoluma.de
 # youno
 DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,567741.xyz
+# paolu
+DOMAIN-SUFFIX,paoluma.de
 # 月饼 
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,apple-cdn.net
 DOMAIN-SUFFIX,3666888.xyz
-# hohai
-DOMAIN,emby-cm.hohai.eu.org
+
+# xyz
+DOMAIN-SUFFIX,66990000.xyz
 # mdl
 DOMAIN-SUFFIX,saodu6.cn
-# xyz
-DOMAIN-SUFFIX,emby.yun
+#emos
+DOMAIN,media.emos.club
+# hohai
+DOMAIN,emby-cm.hohai.eu.org
+
 # 云慕 
 DOMAIN-SUFFIX,nubebelle.com
 DOMAIN-SUFFIX,xiercloud.uk
-# irir
-DOMAIN-SUFFIX,irisnb.com
-# hx
-DOMAIN-SUFFIX,ystel.cn
+
