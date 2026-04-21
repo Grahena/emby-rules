@@ -1,5 +1,5 @@
 # > E Servers List
-# 更新时间：4.4
+# 更新时间：4.21
 
 #lily
 DOMAIN-KEYWORD,lilyemby
@@ -10,8 +10,8 @@ DOMAIN,cctv.paoluma.de
 # kiku
 DOMAIN-SUFFIX,ucloudhost.top
 # 非越
-DOMAIN,media.emby.pro
-DOMAIN,cf.sfcj.org
+DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,sfcj.org
 # peach
 DOMAIN-SUFFIX,embymv.link
 # sdl
@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,handoumedia.top
 DOMAIN-SUFFIX,chuncheon123.xyz
 #L
 DOMAIN-SUFFIX,886223.xyz
+#西瓜
+DOMAIN-SUFFIX,chilledmelon.com
 # 小鸡
 DOMAIN-SUFFIX,sadchicktv.com
 # 守候
@@ -43,7 +45,7 @@ DOMAIN-SUFFIX,miraiemby.com
 # msky
 DOMAIN-SUFFIX,3msky.com
 # 泥嚎
-DOMAIN-SUFFIX,istyboe.top
+DOMAIN-SUFFIX,23333334.xyz
 # jsq
 DOMAIN-SUFFIX,vban.xyz
 # 西瓜
@@ -51,8 +53,7 @@ DOMAIN-SUFFIX,yuntv.de
 # 起点站
 DOMAIN,free.28.al
 DOMAIN,freestream.startspoint.com
-# we
-DOMAIN-SUFFIX,wedg.top
+
 # 小虾米
 DOMAIN-SUFFIX,kingemby.xyz
 # 一只
@@ -61,6 +62,8 @@ DOMAIN-SUFFIX,ichinosekotomi.com
 DOMAIN-SUFFIX,feiniu.lol
 # kl
 DOMAIN,tyemby.klplay.top
+#cinetrail
+DOMAIN-SUFFIX,cinetrail.live
 # gousen
 DOMAIN,gousen.cc.cd
 # nice
