@@ -1,9 +1,9 @@
 # > E Servers List
-# 更新时间：4.21
+# 更新时间：4.22
 
 #lily
-DOMAIN-KEYWORD,lilyemby
-DOMAIN-SUFFIX,lilyya.top
+DOMAIN-KEYWORD,lily
+#DOMAIN-SUFFIX,lilyya.top
 # 墨云阁
 DOMAIN-SUFFIX,mobaiemby.site
 #paolu-main
