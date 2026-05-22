@@ -1,6 +1,8 @@
 # > E Servers List
-# 更新时间：4.22
+# 更新时间：5.23
 
+#youno
+DOMAIN,emby.younoyes.com
 #lily
 DOMAIN-KEYWORD,lily
 #DOMAIN-SUFFIX,lilyya.top
@@ -15,71 +17,62 @@ DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,sfcj.org
 # peach
 DOMAIN-SUFFIX,embymv.link
-# sdl
-DOMAIN-SUFFIX,saturdayent.top
 # 飞了个喵
 DOMAIN-SUFFIX,meowfly.de
-# echo
-DOMAIN-SUFFIX,echoflix.de
+#coolgua
+DOMAIN-SUFFIX,coolgua.top
 # emos
-DOMAIN,emos.best
+DOMAIN-SUFFIX,emos.best
 DOMAIN,emos.prlo.de
 DOMAIN,proxy.emosstore.sbs
-#憨豆
-DOMAIN-SUFFIX,handoumedia.top
-#青梅
-DOMAIN-SUFFIX,chuncheon123.xyz
+# echo
+DOMAIN-SUFFIX,echoflix.de
 #L
 DOMAIN-SUFFIX,886223.xyz
-#西瓜
-DOMAIN-SUFFIX,chilledmelon.com
-# 小鸡
-DOMAIN-SUFFIX,sadchicktv.com
-# 守候
-DOMAIN,lite.cn2gias.uk
-# 折纸
-DOMAIN-SUFFIX,zhezhi.art
-# roc
-DOMAIN-SUFFIX,rochub.xyz
-# mirai
-DOMAIN-SUFFIX,miraiemby.com
-# msky
-DOMAIN-SUFFIX,3msky.com
-# 泥嚎
-DOMAIN-SUFFIX,23333334.xyz
+#憨豆
+DOMAIN-SUFFIX,handoumedia.top
+# sdl
+DOMAIN-SUFFIX,saturdayent.top
+#fyms
+DOMAIN-SUFFIX,feiyue.lol
 # jsq
 DOMAIN-SUFFIX,mooguu.top
 # 西瓜
 DOMAIN-SUFFIX,yuntv.de
-# 起点站
-DOMAIN,free.28.al
-DOMAIN,freestream.startspoint.com
-
+# roc
+DOMAIN-SUFFIX,rochub.xyz
+# kl
+DOMAIN-SUFFIX,klplay.top
+# msky
+DOMAIN-SUFFIX,3msky.com
 # 小虾米
 DOMAIN-SUFFIX,kingemby.xyz
-# 一只
-DOMAIN-SUFFIX,ichinosekotomi.com
 # 肥牛
 DOMAIN-SUFFIX,feiniu.lol
-# kl
-DOMAIN,tyemby.klplay.top
+# 小鸡
+DOMAIN-SUFFIX,sadchicktv.com
+# mirai
+DOMAIN-SUFFIX,miraiemby.com
+# 折纸
+DOMAIN-SUFFIX,zhezhi.art
+# 守候
+DOMAIN-SUFFIX,cn2gias.uk
+# 起点站
+DOMAIN-SUFFIX,28.al
+DOMAIN-SUFFIX,startspoint.com
+# 一只
+DOMAIN-SUFFIX,ichinosekotomi.com
 #cinetrail
 DOMAIN-SUFFIX,cinetrail.live
-# gousen
-DOMAIN,gousen.cc.cd
-# nice
-DOMAIN-SUFFIX,nice66666.cc
 # 稳健
-DOMAIN,emby.wenjian.de
+DOMAIN-SUFFIX,wenjian.de
 # 结束
-DOMAIN,kessoku-bando.biliblili.uk
+DOMAIN-SUFFIX,biliblili.uk
 # ask
 DOMAIN-SUFFIX,asubaka.de
 DOMAIN-SUFFIX,ash.yt
 # hohai
 DOMAIN,emby-pro.hohai.eu.org
-# guai
-DOMAIN,zhuixin.8622368.xyz
 # 叶子
 DOMAIN-SUFFIX,lyezi.cc
 # shrek
@@ -88,12 +81,15 @@ DOMAIN-SUFFIX,shrekmedia.org
 DOMAIN-SUFFIX,okemby.org
 # eoos
 DOMAIN-SUFFIX,eoos.lol
-# me
-DOMAIN-SUFFIX,mebimmer.de
-# iris
-DOMAIN-SUFFIX,niceduck.lol
+# gousen
+DOMAIN-SUFFIX,cc.cd
+# 瞬影
+DOMAIN-SUFFIX,n150.asia
+# 与森
+DOMAIN-SUFFIX,ccwu.cc
 
-
+# guai
+DOMAIN,zhuixin.8622368.xyz
 
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,themoviedb.org

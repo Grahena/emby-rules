@@ -1,5 +1,5 @@
 # > ED Servers (直连/优化组)
-# 更新时间：4.21
+# 更新时间：5.23
 
 # youno
 DOMAIN-SUFFIX,younoyes.com
@@ -7,11 +7,11 @@ DOMAIN-SUFFIX,567741.xyz
 DOMAIN-SUFFIX,65194798.xyz
 # paolu
 DOMAIN-SUFFIX,paoluma.de
+# xyz
+DOMAIN-SUFFIX,emby.yun
 # 月饼 
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,apple-cdn.net
-# xyz
-DOMAIN-SUFFIX,emby.yun
 # mdl
 DOMAIN-SUFFIX,saodu6.cn
 DOMAIN-SUFFIX,saodu6.top
@@ -21,7 +21,8 @@ DOMAIN,media.emos.club
 DOMAIN-SUFFIX,wedg.top
 # hohai
 DOMAIN,emby-cm.hohai.eu.org
-
+# 乐蛙
+DOMAIN-SUFFIX,taotu.ink
 # 云慕 
 DOMAIN-SUFFIX,nubebelle.com
 DOMAIN-SUFFIX,xiercloud.uk
